@@ -1,4 +1,5 @@
 # NATIONAL PARK EXPLORER
+![Homepage](National-Park-Explorer.png)
 
 ## Authors
 - Jacob Brinlee
